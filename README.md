@@ -1,16 +1,1 @@
-# flutter_hw_03
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Снимок экрана 2024-03-26 135458](https://github.com/FlutterCourse18/flutter_circle_03/assets/103981549/dc00ffa1-8376-41c4-a4e1-91b7feafc2c2)
